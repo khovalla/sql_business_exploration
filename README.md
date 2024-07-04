@@ -33,6 +33,7 @@ Is Magist having user growth?
 Which are the categories with the most products?
 How many of those products were present in actual transactions?
 What are the highest and lowest payment values?
+[Answers](https://github.com/khovalla/sql_business_exploration/blob/main/1.sql)
 
 ## Answering business questions
 What categories of tech products does Magist have?
