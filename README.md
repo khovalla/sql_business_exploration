@@ -51,4 +51,4 @@ Is there any pattern for delayed orders, e.g. big products being delayed more of
 
 
 ## Conclusions
-Presentation and exlanations: 
+Presentation and exlanations: [Presentation] (https://github.com/khovalla/sql_business_exploration/blob/main/Magists%20presentation.pdf)
