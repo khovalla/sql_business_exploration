@@ -47,6 +47,7 @@ Can you work out the average monthly income of all sellers? Can you work out the
 What’s the average time between the order being placed and the product being delivered?
 How many orders are delivered on time vs orders delivered with a delay?
 Is there any pattern for delayed orders, e.g. big products being delayed more often?
+[Answers](https://github.com/khovalla/sql_business_exploration/blob/main/2.sql)
 
 
 ## Conclusions
