@@ -23,3 +23,30 @@ The economic conditions of the deal are already being discussed. But not everyon
 Eniac’s catalogue is 100% tech products and heavily based on Apple-compatible accessories. It is not clear that Magist is a good partner for these high-end tech products.
 Among Eniac’s efforts to have happy customers, fast deliveries are key. The delivery fees resulting from Magist’s deal with the public Post Office might be cheap, but at what cost? 
 Are deliveries fast enough?
+
+## Data exploration and analys 
+Exploring schema of the database and understand how data goes from real customers purchasing products to the rows of these tables.
+Answering the questions:
+How many orders are there in the dataset?
+Are orders actually delivered?
+Is Magist having user growth?
+Which are the categories with the most products?
+How many of those products were present in actual transactions?
+What are the highest and lowest payment values?
+
+## Answering business questions
+What categories of tech products does Magist have?
+How many products of these tech categories have been sold (within the time window of the database snapshot)? What percentage does that represent from the overall number of products sold?
+What’s the average price of the products being sold?
+Are expensive tech products popular?
+How many months of data are included in the magist database?
+How many sellers are there? How many Tech sellers are there? What percentage of overall sellers are Tech sellers?
+What is the total amount earned by all sellers? What is the total amount earned by all Tech sellers?
+Can you work out the average monthly income of all sellers? Can you work out the average monthly income of Tech sellers?
+What’s the average time between the order being placed and the product being delivered?
+How many orders are delivered on time vs orders delivered with a delay?
+Is there any pattern for delayed orders, e.g. big products being delayed more often?
+
+
+## Conclusions
+Presentation and exlanations: 
