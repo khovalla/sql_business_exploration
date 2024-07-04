@@ -25,7 +25,7 @@ Among Eniac’s efforts to have happy customers, fast deliveries are key. The de
 Are deliveries fast enough?
 
 ## Data exploration and analys 
-Exploring schema of the database and understand how data goes from real customers purchasing products to the rows of these tables.
+Exploring [schema](https://github.com/khovalla/sql_business_exploration/blob/main/magist_schema.pdf) of the database and understand how data goes from real customers purchasing products to the rows of these tables.
 Answering the questions:
 How many orders are there in the dataset?
 Are orders actually delivered?
